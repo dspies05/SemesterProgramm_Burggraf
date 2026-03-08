@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1772986027.59346 "c:/Users/david/Documents/Burggraf/SemPro/SS25/sempro.tex" "sempro.pdf" "sempro" 1772986028.74994 0
+["pdflatex"] 1772987184.06656 "c:/Users/david/Documents/Burggraf/SemPro/SS25/sempro.tex" "sempro.pdf" "sempro" 1772987185.26713 0
   "C:/Users/david/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772911696 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/david/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772887939 13333848 15daae863331b456daa378480e7d7a6d ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -22,6 +22,7 @@
   "C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1247596666 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
+  "C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1734114575 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty" 1734114575 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -30,6 +31,7 @@
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1761900684 20144 b966087dda3b194755eb460d32e2ef75 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty" 1761900684 5525 1593ca62a2554dd7423fc8a4e5a82125 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1761900684 5048 0270515b828149155424600fd2d58ac5 ""
+  "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/base/omscmr.fd" 1761900684 2469 c75f72b1dc17277decdd842fa4a321a8 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/eso-pic/eso-pic.sty" 1766748757 11838 c56b1b2e06d66f65afcf19adbfba71b5 ""
@@ -58,11 +60,11 @@
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1761901070 10374 2ffd4f27c7f90b8a300608069537743c ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1761901070 33142 efe8f4750fc02524935e7423b4bdef69 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/david/Documents/Burggraf/SemPro/SS25/sempro.tex" 1772986027 10693 6e829d7eca1478a3eead3b50f6164d0c ""
+  "c:/Users/david/Documents/Burggraf/SemPro/SS25/sempro.tex" 1772987183 10787 632f76dfdbcf8d73a892e9ed611cf463 ""
   "figures/wappen.png" 1772893896 796534 0c5a285556802156b6bf168508350348 ""
   "pdfs/overlay_band.pdf" 1772969692 23483 dcb30c5f17a2e424366dd9e6a06e91cf ""
-  "sempro.aux" 1772986028 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "sempro.tex" 1772986027 10693 6e829d7eca1478a3eead3b50f6164d0c ""
+  "sempro.aux" 1772987185 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "sempro.tex" 1772987183 10787 632f76dfdbcf8d73a892e9ed611cf463 ""
   (generated)
   "sempro.aux"
   "sempro.log"
