@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  8 MAR 2026 17:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  8 MAR 2026 21:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/david/Documents/Burggraf/SemPro/SS25/sempro.tex
-(c:/Users/david/Documents/Burggraf/SemPro/SS25/sempro.tex
+**c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex
+(c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -216,32 +216,86 @@ File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks25
 \c@AM@survey=\count303
 \AM@templatesizebox=\box103
+) (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/02/14 v26.3 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count304
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
+\U@D=\dimen182
+\l@unhyphenated=\language79
+ (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count305
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4206.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/invalid\babel-ngerman.tex)
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 4330.
+ (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
+Language: ngerman 
+ (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\babel-german.def
+Package babel Info: Making " an active character on input line 470.
+))) (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count306
+\csq@gtype=\count307
+\csq@glevel=\count308
+\csq@qlevel=\count309
+\csq@maxlvl=\count310
+\csq@tshold=\count311
+\csq@ltx@everypar=\toks26
+ (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
 \panelwidth=\skip60
 \panelmargintop=\skip61
 \panelmarginbottom=\skip62
 \panelmarginx=\skip63
 \panelheight=\skip64
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
  (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count304
-) (sempro.aux)
+\l__color_backend_stack_int=\count312
+) (sempro.aux
+Package babel Info: 'ngerman' activates 'german' shorthands.
+(babel)             Reported on input line 5.
+)
 \openout1 = `sempro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -279,17 +333,17 @@ LaTeX Font Info:    ... okay on input line 70.
 
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen182
+\scratchcounter=\count313
+\scratchdimen=\dimen183
 \scratchbox=\box104
-\nofMPsegments=\count306
-\nofMParguments=\count307
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen183
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
-\everyMPtoPDFconversion=\toks27
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen184
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks28
 ) (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -306,7 +360,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 229.
+(Font)              size <12> substituted on input line 231.
 
 
 
@@ -314,7 +368,7 @@ pdfTeX warning: pdflatex (file ./pdfs/overlay_band.pdf): PDF inclusion: found PD
 <pdfs/overlay_band.pdf, id=1, 839.35579pt x 315.82591pt>
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf>
-Package pdftex.def Info: pdfs/overlay_band.pdf  used on input line 229.
+Package pdftex.def Info: pdfs/overlay_band.pdf  used on input line 231.
 (pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
 
 
@@ -325,168 +379,163 @@ pdfTeX warning: pdflatex (file ./pdfs/overlay_band.pdf): PDF inclusion: found PD
 <pdfs/overlay_band.pdf, id=3, page=1, 839.35579pt x 315.82591pt>
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 229.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 231.
 (pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 229.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 231.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
-\OT1/cmr/m/n/9 ist ein nichtschla-gen-der und far-
+Underfull \hbox (badness 4001) in paragraph at lines 231--231
+\OT1/cmr/m/n/9 der ka-tho-li-sche Stu-den-ten-ver-ein Burg-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
-\OT1/cmr/m/n/9 benf^^?uhrender Stu-den-ten-verein im
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\OT1/cmr/m/n/9 graf ist ein nicht-schla-gen-der und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
-\OT1/cmr/m/n/9 Kartel-lver-band katholis-cher deutscher
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\OT1/cmr/m/n/9 far-benf[]uhrender Stu-den-ten-ver-ein im
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
-
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\OT1/cmr/m/n/9 Kar-tell-ver-band ka-tho-li-scher deut-scher
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
-[]\OT1/cmr/m/n/9 Uber un-seren Dachver-band bilden
- []
-
-
-Underfull \hbox (badness 4266) in paragraph at lines 229--229
-\OT1/cmr/m/n/9 Akademik-ern aller Fakult^^?aten. Wie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
-\OT1/cmr/m/n/9 Re-li-gion, Wis-senschaft und Fre-und-
- []
-
-
-Underfull \hbox (badness 2376) in paragraph at lines 229--229
-\OT1/cmr/m/n/9 schaft ver-schrieben. Das Hochhal-ten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
 
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 229--229
-\OT1/cmr/m/n/9 Hierzu or-gan-isiert die Ak-tiv-i-tas jedes
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
-\OT1/cmr/m/n/9 Semester ein Semester-pro-gramm mit
+Underfull \hbox (badness 3138) in paragraph at lines 231--231
+\OT1/cmr/m/n/9 Hierzu or-ga-ni-siert die Ak-ti-vi-tas je-des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\OT1/cmr/m/n/9 Se-mes-ter ein Se-mes-ter-pro-gramm mit
  []
 
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 229.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 231.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 229.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 231.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 229.
+(Font)              <9> on input line 231.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 229.
+(Font)              <6> on input line 231.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 229.
+(Font)              <5> on input line 231.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 229.
+(Font)              <7> on input line 231.
 
-Overfull \hbox (14.72472pt too wide) in paragraph at lines 229--229
+Overfull \hbox (14.72472pt too wide) in paragraph at lines 231--231
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
+Underfull \hbox (badness 2435) in paragraph at lines 231--231
+\OT1/cmr/m/n/9 Jeden vier-ten Mon-tag im Mo-nat fin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
 \OT1/cmr/m/n/6 consenior@kstv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
 \OT1/cmr/m/n/6 fuxmajor@kstv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
 \OT1/cmr/m/n/6 scriptor@kstv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--229
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
 \OT1/cmr/m/n/6 quaestor@kstv-
  []
 
 
-Overfull \hbox (5.19832pt too wide) in paragraph at lines 229--229
+Overfull \hbox (5.19832pt too wide) in paragraph at lines 231--231
 [] 
  []
 
 <figures/wappen.png, id=4, 2509.375pt x 2509.375pt>
 File: figures/wappen.png Graphic file (type png)
 <use figures/wappen.png>
-Package pdftex.def Info: figures/wappen.png  used on input line 229.
+Package pdftex.def Info: figures/wappen.png  used on input line 231.
 (pdftex.def)             Requested size: 170.00523pt x 169.969pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 235.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 237.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 [1
 
 {C:/Users/david/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./pdfs/overlay_band.pdf> <./figures/wappen.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
-[]\OT1/cmr/m/n/9 F^^?ur die Al-ther-ren-
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
+[]\OT1/cmr/m/n/9 F[]ur die Alt-her-ren-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 
  []
 
 
-Overfull \hbox (4.6007pt too wide) in paragraph at lines 373--373
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
+\OT1/cmr/bx/n/12 Harald Litz-
+ []
+
+
+Overfull \hbox (4.6007pt too wide) in paragraph at lines 375--375
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 
  []
 
@@ -504,15 +553,15 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4570 strings out of 467867
- 73948 string characters out of 5418335
- 543367 words of memory out of 5000000
- 33406 multiletter control sequences out of 15000+600000
+ 6435 strings out of 467867
+ 107827 string characters out of 5418335
+ 597111 words of memory out of 5000000
+ 35240 multiletter control sequences out of 15000+600000
  631983 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,23n,67p,1241b,492s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,23n,67p,1241b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on sempro.pdf (2 pages, 750011 bytes).
+Output written on sempro.pdf (2 pages, 751452 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
