@@ -148,8 +148,11 @@ INPUT .\pdfs\overlay_band.pdf
 INPUT .\pdfs\overlay_band.pdf
 INPUT .\pdfs\overlay_band.pdf
 INPUT C:\Users\david\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\david\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
 INPUT sempro.aux
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\david\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\david\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\david\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\david\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx6.pfb
