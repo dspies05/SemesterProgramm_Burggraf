@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  8 MAR 2026 12:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  8 MAR 2026 17:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,7 +306,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 227.
+(Font)              size <12> substituted on input line 228.
 
 
 
@@ -314,7 +314,7 @@ pdfTeX warning: pdflatex (file ./pdfs/overlay_band.pdf): PDF inclusion: found PD
 <pdfs/overlay_band.pdf, id=1, 839.35579pt x 315.82591pt>
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf>
-Package pdftex.def Info: pdfs/overlay_band.pdf  used on input line 227.
+Package pdftex.def Info: pdfs/overlay_band.pdf  used on input line 228.
 (pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
 
 
@@ -325,168 +325,168 @@ pdfTeX warning: pdflatex (file ./pdfs/overlay_band.pdf): PDF inclusion: found PD
 <pdfs/overlay_band.pdf, id=3, page=1, 839.35579pt x 315.82591pt>
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 227.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 228.
 (pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 227.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 228.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/9 ist ein nichtschla-gen-der und far-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/9 benf^^?uhrender Stu-den-ten-verein im
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/9 Kartel-lver-band katholis-cher deutscher
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 []\OT1/cmr/m/n/9 Uber un-seren Dachver-band bilden
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 227--227
+Underfull \hbox (badness 4266) in paragraph at lines 228--228
 \OT1/cmr/m/n/9 Akademik-ern aller Fakult^^?aten. Wie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/9 Re-li-gion, Wis-senschaft und Fre-und-
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 227--227
+Underfull \hbox (badness 2376) in paragraph at lines 228--228
 \OT1/cmr/m/n/9 schaft ver-schrieben. Das Hochhal-ten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 227--227
+Underfull \hbox (badness 3138) in paragraph at lines 228--228
 \OT1/cmr/m/n/9 Hierzu or-gan-isiert die Ak-tiv-i-tas jedes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/9 Semester ein Semester-pro-gramm mit
  []
 
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 227.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 228.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 227.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 228.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 227.
+(Font)              <9> on input line 228.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 227.
+(Font)              <6> on input line 228.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 227.
+(Font)              <5> on input line 228.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 227.
+(Font)              <7> on input line 228.
 
-Overfull \hbox (14.72472pt too wide) in paragraph at lines 227--227
+Overfull \hbox (14.72472pt too wide) in paragraph at lines 228--228
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/6 consenior@kstv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/6 fuxmajor@kstv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/6 scriptor@kstv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 \OT1/cmr/m/n/6 quaestor@kstv-
  []
 
 
-Overfull \hbox (5.19832pt too wide) in paragraph at lines 227--227
+Overfull \hbox (5.19832pt too wide) in paragraph at lines 228--228
 [] 
  []
 
 <figures/wappen.png, id=4, 2509.375pt x 2509.375pt>
 File: figures/wappen.png Graphic file (type png)
 <use figures/wappen.png>
-Package pdftex.def Info: figures/wappen.png  used on input line 227.
+Package pdftex.def Info: figures/wappen.png  used on input line 228.
 (pdftex.def)             Requested size: 170.00523pt x 169.969pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 233.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 234.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 [1
 
 {C:/Users/david/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./pdfs/overlay_band.pdf> <./figures/wappen.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 371--371
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--371
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--371
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--371
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--371
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
 []\OT1/cmr/m/n/9 F^^?ur die Al-ther-ren-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--371
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
 
  []
 
 
-Overfull \hbox (4.6007pt too wide) in paragraph at lines 371--371
+Overfull \hbox (4.6007pt too wide) in paragraph at lines 372--372
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--371
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
 
  []
 
@@ -512,7 +512,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  68i,23n,67p,1241b,492s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on sempro.pdf (2 pages, 751208 bytes).
+Output written on sempro.pdf (2 pages, 750173 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
