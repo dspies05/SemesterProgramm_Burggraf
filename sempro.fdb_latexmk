@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1773163960.97276 "c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex" "sempro.pdf" "sempro" 1773163962.25497 0
+["pdflatex"] 1773164398.85684 "c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex" "sempro.pdf" "sempro" 1773164400.04091 0
   "C:/Users/david/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1773003025 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/david/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772887939 13333848 15daae863331b456daa378480e7d7a6d ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -70,11 +70,11 @@
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1761901070 10374 2ffd4f27c7f90b8a300608069537743c ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1761901070 33142 efe8f4750fc02524935e7423b4bdef69 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex" 1773163960 10943 0164d02bc5e142d2401fbb61928aae2a ""
+  "c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex" 1773164398 11016 6c7d8034a301763ed6e8149acc5a932f ""
   "figures/wappen.png" 1772893896 796534 0c5a285556802156b6bf168508350348 ""
   "pdfs/overlay_band.pdf" 1772969692 23483 dcb30c5f17a2e424366dd9e6a06e91cf ""
-  "sempro.aux" 1773163962 170 330a884c71e6361ea1d37761537236be "pdflatex"
-  "sempro.tex" 1773163960 10943 0164d02bc5e142d2401fbb61928aae2a ""
+  "sempro.aux" 1773164399 170 330a884c71e6361ea1d37761537236be "pdflatex"
+  "sempro.tex" 1773164398 11016 6c7d8034a301763ed6e8149acc5a932f ""
   (generated)
   "sempro.aux"
   "sempro.log"
