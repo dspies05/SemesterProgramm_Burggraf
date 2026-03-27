@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  10 MAR 2026 18:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  27 MAR 2026 11:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -495,32 +495,37 @@ Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 237.
 {C:/Users/david/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./pdfs/overlay_band.pdf> <./figures/wappen.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 376--376
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--376
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--376
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--376
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 
  []
 
 
-Overfull \hbox (4.6007pt too wide) in paragraph at lines 376--376
+Overfull \hbox (10.02728pt too wide) in paragraph at lines 379--379
+[]|[]|  
+ []
+
+
+Overfull \hbox (5.19833pt too wide) in paragraph at lines 379--379
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--376
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 
  []
 
@@ -544,9 +549,9 @@ Here is how much of TeX's memory you used:
  35241 multiletter control sequences out of 15000+600000
  632291 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,23n,67p,1241b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,23n,67p,1241b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on sempro.pdf (2 pages, 763322 bytes).
+Output written on sempro.pdf (2 pages, 763345 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
