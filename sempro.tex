@@ -5,7 +5,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{parskip}
 \usepackage{array}
-\usepackage{multicol}
+\usepackage[colaction]{multicol}
 \usepackage{xcolor}
 \usepackage{titlesec}
 \usepackage{pdfpages}
@@ -22,20 +22,24 @@
 \newlength{\panelwidth}
 \setlength{\panelwidth}{0.25\paperwidth}
 \newlength{\panelmargintop}
+\newlength{\frontpanelmargintop}
 \newlength{\panelmarginbottom}
 \newlength{\panelmarginx}
+\newlength{\panelintershift}
 \newlength{\panelheight}
-\setlength{\panelmargintop}{5mm}
+\setlength{\panelmargintop}{2mm}
+\setlength{\frontpanelmargintop}{6mm}
 \setlength{\panelmarginbottom}{6mm}
-\setlength{\panelmarginx}{7mm}
+\setlength{\panelmarginx}{6mm}
+\setlength{\panelintershift}{1mm}
 \setlength{\panelheight}{\dimexpr\textheight-8pt\relax}
 
 % A panel with consistent inner margins on all sides.
 \newenvironment{panel}{%
 \begin{minipage}[t][\panelheight][t]{\panelwidth}%
-\vspace*{\panelmargintop}%
+\vspace*{\frontpanelmargintop}%
 \hspace*{\panelmarginx}%
-\begin{minipage}[t][\dimexpr\panelheight-\panelmargintop-\panelmarginbottom\relax][t]{\dimexpr\panelwidth-2\panelmarginx\relax}%
+\begin{minipage}[t][\dimexpr\panelheight-\frontpanelmargintop-\panelmarginbottom\relax][t]{\dimexpr\panelwidth-2\panelmarginx\relax}%
 }{%
 \end{minipage}%
 \end{minipage}%
@@ -103,7 +107,9 @@ wissenschaftlichen Vorträgen über traditionelle Kneipen bis hin zu gemeinsamen
 Aktivenfahrten mit Wanderungen in den
 Bergen.
 \includepdf[pages=1]{pdfs/overlay_band.pdf}
+%\includepdf[pages=1]{pdfs/Rahmen.pdf}
 \end{panel}%
+\hspace*{-4\panelintershift}%
 \begin{panel}
 \section*{Allgemeines und Erklärungen}
 
@@ -142,6 +148,7 @@ Stammtisch der Aktivitas auf dem Haus
 statt.
 
 \end{panel}%
+\hspace*{-\panelintershift}%
 \begin{panel}
 \section*{Vorstand der Verbindung}
 \vspace{0.4em}
@@ -213,6 +220,7 @@ E-mail: heinz.troester@kstv-burggraf.de
 
 
 \end{panel}%
+\hspace*{-\panelintershift}%
 \begin{panel}
 \begin{center}
 
@@ -239,11 +247,12 @@ im KV zu Nürnberg
 
 \makebox[\paperwidth][l]{%
 \begin{panelgroup}{4}
-
-% Match page 1 panel spacing: each column keeps left/right inner margins,
-% so the visual gap between adjacent text areas is 2*\panelmarginx.
-\setlength{\columnsep}{\dimexpr2\panelmarginx\relax}
+%\includepdf[pages=2]{pdfs/Rahmen.pdf}
+% Match page 1 panel spacing.
+\setlength{\columnsep}{\dimexpr2.2\panelmarginx\relax}
 \setlength{\multicolsep}{0pt}
+% Apply the intershift only to the last column on page 2.
+{{\docolaction{}{}{\hspace*{-0\panelintershift}}}%
 \begin{multicols}{4}
 \raggedcolumns
 
@@ -347,9 +356,7 @@ Altherrensenior
 
 }
 
-
 \vspace*{\fill}
-
 
 {\scriptsize
 \textbf{Unser Haus}\\
@@ -374,6 +381,7 @@ Instagram: & @kstv\_burggraf
 
 % Optional: use \columnbreak to force a manual split point.
 \end{multicols}
+}
 
 \end{panelgroup}%
 }

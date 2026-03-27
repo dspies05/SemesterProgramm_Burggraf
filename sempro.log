@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  27 MAR 2026 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  27 MAR 2026 12:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -266,9 +266,11 @@ File: csquotes.cfg
 ))
 \panelwidth=\skip60
 \panelmargintop=\skip61
-\panelmarginbottom=\skip62
-\panelmarginx=\skip63
-\panelheight=\skip64
+\frontpanelmargintop=\skip62
+\panelmarginbottom=\skip63
+\panelmarginx=\skip64
+\panelintershift=\skip65
+\panelheight=\skip66
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -282,20 +284,20 @@ Package babel Info: 'ngerman' activates 'german' shorthands.
 )
 \openout1 = `sempro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -360,7 +362,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 231.
+(Font)              size <12> substituted on input line 239.
 
 
 
@@ -368,7 +370,7 @@ pdfTeX warning: pdflatex (file ./pdfs/overlay_band.pdf): PDF inclusion: found PD
 <pdfs/overlay_band.pdf, id=1, 839.35579pt x 315.82591pt>
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf>
-Package pdftex.def Info: pdfs/overlay_band.pdf  used on input line 231.
+Package pdftex.def Info: pdfs/overlay_band.pdf  used on input line 239.
 (pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
 
 
@@ -379,153 +381,143 @@ pdfTeX warning: pdflatex (file ./pdfs/overlay_band.pdf): PDF inclusion: found PD
 <pdfs/overlay_band.pdf, id=3, page=1, 839.35579pt x 315.82591pt>
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 231.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 239.
 (pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 231.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 239.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 
-Underfull \hbox (badness 4001) in paragraph at lines 231--231
-\OT1/cmr/m/n/9 der ka-tho-li-sche Stu-den-ten-ver-ein Burg-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
-\OT1/cmr/m/n/9 graf ist ein nicht-schla-gen-der und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
-\OT1/cmr/m/n/9 far-benf[]uhrender Stu-den-ten-ver-ein im
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
-\OT1/cmr/m/n/9 Kar-tell-ver-band ka-tho-li-scher deut-scher
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 4543) in paragraph at lines 239--239
+[]\OT1/cmr/m/n/9 Uber un-se-ren Dach-ver-band bil-den wir
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 231--231
+Underfull \hbox (badness 6775) in paragraph at lines 239--239
 \OT1/cmr/m/n/9 Hierzu or-ga-ni-siert die Ak-ti-vi-tas je-des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 \OT1/cmr/m/n/9 Se-mes-ter ein Se-mes-ter-pro-gramm mit
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 239--239
+\OT1/cmr/m/n/9 wis-sen-schaft-li-chen Vor-tr[]agen []uber tra-di-
  []
 
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 231.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 239.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 231.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 239.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 231.
+(Font)              <9> on input line 239.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 231.
+(Font)              <6> on input line 239.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 231.
+(Font)              <5> on input line 239.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 231.
+(Font)              <7> on input line 239.
 
-Overfull \hbox (14.72472pt too wide) in paragraph at lines 231--231
+Overfull \hbox (9.03416pt too wide) in paragraph at lines 239--239
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 1902) in paragraph at lines 239--239
+\OT1/cmr/m/n/9 Jeden zwei-ten Mon-tag im Mo-nat trifft
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 
  []
 
 
-Underfull \hbox (badness 2435) in paragraph at lines 231--231
-\OT1/cmr/m/n/9 Jeden vier-ten Mon-tag im Mo-nat fin-
+Underfull \hbox (badness 1331) in paragraph at lines 239--239
+\OT1/cmr/m/n/9 Jeden vier-ten Mon-tag im Mo-nat fin-det
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 \OT1/cmr/m/n/6 consenior@kstv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 \OT1/cmr/m/n/6 fuxmajor@kstv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
-\OT1/cmr/m/n/6 scriptor@kstv-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 \OT1/cmr/m/n/6 quaestor@kstv-
  []
 
 
-Overfull \hbox (5.19832pt too wide) in paragraph at lines 231--231
+Overfull \hbox (4.97066pt too wide) in paragraph at lines 239--239
 [] 
  []
 
 <figures/wappen.png, id=4, 2509.375pt x 2509.375pt>
 File: figures/wappen.png Graphic file (type png)
 <use figures/wappen.png>
-Package pdftex.def Info: figures/wappen.png  used on input line 231.
-(pdftex.def)             Requested size: 170.00523pt x 169.969pt.
+Package pdftex.def Info: figures/wappen.png  used on input line 239.
+(pdftex.def)             Requested size: 175.69579pt x 175.6742pt.
 File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
-Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 237.
+Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 245.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 [1
 
 {C:/Users/david/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./pdfs/overlay_band.pdf> <./figures/wappen.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
 
  []
 
 
-Overfull \hbox (10.02728pt too wide) in paragraph at lines 379--379
+Overfull \hbox (7.80507pt too wide) in paragraph at lines 387--387
 []|[]|  
  []
 
 
-Overfull \hbox (5.19833pt too wide) in paragraph at lines 379--379
+Overfull \hbox (5.0731pt too wide) in paragraph at lines 387--387
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
 
  []
 
@@ -541,17 +533,20 @@ L3 programming layer <2026-01-19>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 6437 strings out of 467867
- 107848 string characters out of 5418335
- 599111 words of memory out of 5000000
- 35241 multiletter control sequences out of 15000+600000
+ 6440 strings out of 467867
+ 107890 string characters out of 5418335
+ 599163 words of memory out of 5000000
+ 35244 multiletter control sequences out of 15000+600000
  632291 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,23n,67p,1241b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,23n,67p,1241b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on sempro.pdf (2 pages, 763345 bytes).
+Output written on sempro.pdf (2 pages, 763327 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
