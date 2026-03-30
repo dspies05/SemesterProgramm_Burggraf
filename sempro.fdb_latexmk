@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1774610852.87651 "c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex" "sempro.pdf" "sempro" 1774610854.12838 0
+["pdflatex"] 1774863706.09068 "c:/Users/david/Documents/Burggraf/SemPro/SemesterProgramm_Burggraf/sempro.tex" "sempro.pdf" "sempro" 1774863707.43475 0
   "C:/Users/david/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1773003025 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/david/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772887939 13333848 15daae863331b456daa378480e7d7a6d ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -70,11 +70,12 @@
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1761901070 10374 2ffd4f27c7f90b8a300608069537743c ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1761901070 33142 efe8f4750fc02524935e7423b4bdef69 ""
   "C:/Users/david/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex" 1774610852 11532 7ff31358b6c9e4bee2c14d9e7f6870b7 ""
-  "figures/wappen.png" 1772893896 796534 0c5a285556802156b6bf168508350348 ""
-  "pdfs/overlay_band.pdf" 1772969692 23483 dcb30c5f17a2e424366dd9e6a06e91cf ""
-  "sempro.aux" 1774610854 292 346165e4531709c316cf13a30d15a54d "pdflatex"
-  "sempro.tex" 1774610852 11532 7ff31358b6c9e4bee2c14d9e7f6870b7 ""
+  "c:/Users/david/Documents/Burggraf/SemPro/SemesterProgramm_Burggraf/sempro.tex" 1774863705 11610 ce74d541a07a87c62a8131e245a87bb9 ""
+  "figures/wappen.png" 1774609122 796534 0c5a285556802156b6bf168508350348 ""
+  "pdfs/Rahmen.pdf" 1774862481 497461 3b506fb762ad829dc95f4f2d23bc355b ""
+  "pdfs/overlay_band.pdf" 1774609123 23483 dcb30c5f17a2e424366dd9e6a06e91cf ""
+  "sempro.aux" 1774863707 260 b13124d238f19a86b8ca8daf72ea6a7a "pdflatex"
+  "sempro.tex" 1774863705 11610 ce74d541a07a87c62a8131e245a87bb9 ""
   (generated)
   "sempro.aux"
   "sempro.log"

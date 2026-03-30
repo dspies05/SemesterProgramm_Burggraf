@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  27 MAR 2026 12:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.7)  30 MAR 2026 11:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex
-(c:/Users/david/Documents/Burggraf/SemPro/SS26/sempro.tex
+**c:/Users/david/Documents/Burggraf/SemPro/SemesterProgramm_Burggraf/sempro.tex
+(c:/Users/david/Documents/Burggraf/SemPro/SemesterProgramm_Burggraf/sempro.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -425,6 +425,37 @@ File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
 Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 239.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
+
+
+pdfTeX warning: pdflatex (file ./pdfs/Rahmen.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pdfs/Rahmen.pdf, id=4, 839.35579pt x 315.82591pt>
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf>
+Package pdftex.def Info: pdfs/Rahmen.pdf  used on input line 239.
+(pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
+
+
+pdfTeX warning: pdflatex (file ./pdfs/Rahmen.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./pdfs/Rahmen.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pdfs/Rahmen.pdf, id=6, page=1, 839.35579pt x 315.82591pt>
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 1>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page1 used on input line 239.
+(pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 1>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page1 used on input line 239.
+(pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 1>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page1 used on input line 239.
+(pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 1>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page1 used on input line 239.
+(pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 239.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -473,7 +504,7 @@ Overfull \hbox (4.97066pt too wide) in paragraph at lines 239--239
 [] 
  []
 
-<figures/wappen.png, id=4, 2509.375pt x 2509.375pt>
+<figures/wappen.png, id=7, 2509.375pt x 2509.375pt>
 File: figures/wappen.png Graphic file (type png)
 <use figures/wappen.png>
 Package pdftex.def Info: figures/wappen.png  used on input line 239.
@@ -482,48 +513,91 @@ File: pdfs/overlay_band.pdf Graphic file (type pdf)
 <use pdfs/overlay_band.pdf, page 1>
 Package pdftex.def Info: pdfs/overlay_band.pdf , page1 used on input line 245.
 (pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 1>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page1 used on input line 245.
+(pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 [1
 
 {C:/Users/david/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
- <./pdfs/overlay_band.pdf> <./figures/wappen.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+
+ <./pdfs/overlay_band.pdf> <./pdfs/Rahmen.pdf> <./figures/wappen.png>]
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf>
+Package pdftex.def Info: pdfs/Rahmen.pdf  used on input line 392.
+(pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
+
+
+pdfTeX warning: pdflatex (file ./pdfs/Rahmen.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./pdfs/Rahmen.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pdfs/Rahmen.pdf, id=53, page=2, 839.35579pt x 315.82591pt>
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 2>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page2 used on input line 392.
+(pdftex.def)             Requested size: 839.35373pt x 315.82513pt.
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 2>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page2 used on input line 392.
+(pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 2>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page2 used on input line 392.
+(pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 2>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page2 used on input line 392.
+(pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 392--392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 392--392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 392--392
 
  []
 
 
-Overfull \hbox (7.80507pt too wide) in paragraph at lines 387--387
+Overfull \hbox (1.44157pt too wide) in paragraph at lines 392--392
 []|[]|  
  []
 
 
-Overfull \hbox (5.0731pt too wide) in paragraph at lines 387--387
+Overfull \hbox (4.71451pt too wide) in paragraph at lines 392--392
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 392--392
 
  []
 
+
+Overfull \hbox (6.32344pt too wide) in paragraph at lines 248--393
+[]|  [] 
+ []
+
+File: pdfs/Rahmen.pdf Graphic file (type pdf)
+<use pdfs/Rahmen.pdf, page 2>
+Package pdftex.def Info: pdfs/Rahmen.pdf , page2 used on input line 396.
+(pdftex.def)             Requested size: 839.69952pt x 315.95525pt.
 [2
 
-] (sempro.aux)
+
+ <./pdfs/Rahmen.pdf>] (sempro.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -533,22 +607,19 @@ L3 programming layer <2026-01-19>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 6440 strings out of 467867
- 107890 string characters out of 5418335
- 599163 words of memory out of 5000000
- 35244 multiletter control sequences out of 15000+600000
+ 6454 strings out of 467867
+ 108450 string characters out of 5418335
+ 600163 words of memory out of 5000000
+ 35258 multiletter control sequences out of 15000+600000
  632291 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,23n,67p,1241b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,23n,67p,1262b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on sempro.pdf (2 pages, 763327 bytes).
+Output written on sempro.pdf (2 pages, 1257434 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

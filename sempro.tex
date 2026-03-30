@@ -27,7 +27,7 @@
 \newlength{\panelmarginx}
 \newlength{\panelintershift}
 \newlength{\panelheight}
-\setlength{\panelmargintop}{2mm}
+\setlength{\panelmargintop}{1mm}
 \setlength{\frontpanelmargintop}{6mm}
 \setlength{\panelmarginbottom}{6mm}
 \setlength{\panelmarginx}{6mm}
@@ -107,7 +107,7 @@ wissenschaftlichen Vorträgen über traditionelle Kneipen bis hin zu gemeinsamen
 Aktivenfahrten mit Wanderungen in den
 Bergen.
 \includepdf[pages=1]{pdfs/overlay_band.pdf}
-%\includepdf[pages=1]{pdfs/Rahmen.pdf}
+\includepdf[pages=1]{pdfs/Rahmen.pdf}
 \end{panel}%
 \hspace*{-4\panelintershift}%
 \begin{panel}
@@ -245,14 +245,15 @@ im KV zu Nürnberg
 \clearpage
 \noindent
 
+\hspace*{1.5mm}
 \makebox[\paperwidth][l]{%
-\begin{panelgroup}{4}
-%\includepdf[pages=2]{pdfs/Rahmen.pdf}
+\begin{panelgroup}{4}{
+\includepdf[pages=2]{pdfs/Rahmen.pdf}
 % Match page 1 panel spacing.
-\setlength{\columnsep}{\dimexpr2.2\panelmarginx\relax}
+\setlength{\columnsep}{\dimexpr1.5\panelmarginx\relax}
 \setlength{\multicolsep}{0pt}
 % Apply the intershift only to the last column on page 2.
-{{\docolaction{}{}{\hspace*{-0\panelintershift}}}%
+
 \begin{multicols}{4}
 \raggedcolumns
 
@@ -314,8 +315,12 @@ Altherrensenior
 
 \section*{Mai}
 \eventitem{Mo 04.05.}{Bowlingstammtisch \eventmeta{18\,h mmct / io} Blu Bowl}
-\eventitem{Fr 08.05.}{Begrüßungsabend Stiftungsfest \eventmeta{19\,h ct / ho} adH}
-\eventitem{Sa 09.05.}{Stiftungsfestkommers \eventmeta{19\,h ct / ho} Pfründnerstraße 20, Nürnberg}
+\eventitem{Fr 08.05.}{Begrüßungsabend Stiftungsfest \eventmeta{18\,h ct / ho} adH}
+\eventitem{Sa 09.05.}{
+    \eventpoints{%
+    \eventpoint{CC und AHC \eventmeta{13\,h ct / ho} adH}\\
+    \eventpoint{Stiftungsfestkommers \eventmeta{19\,h ct / ho} \\ Pfründnerstraße 20, Nürnberg}\\
+    }}
 \eventitem{So 10.05.}{Gottesdienst zum Stiftungsfest \eventmeta{11\,h mct / ho} Kirche St. Elisabeth}
 
 \section*{Juni}
