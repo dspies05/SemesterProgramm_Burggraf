@@ -82,7 +82,7 @@
 % Put full-page PDF art in the background without changing text flow.
 \AddToShipoutPictureBG*{%
 \AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight,page=1]{pdfs/overlay_band.pdf}}%
-\AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight,page=1]{pdfs/Rahmen.pdf}}%
+%\AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight,page=1]{pdfs/Rahmen.pdf}}%
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -251,14 +251,14 @@ im KV zu Nürnberg
 \noindent
 
 \AddToShipoutPictureBG*{%
-\AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight,page=2]{pdfs/Rahmen.pdf}}%
+%\AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight,page=2]{pdfs/Rahmen.pdf}}%
 }
 
 \hspace*{1.5mm}
 \makebox[\paperwidth][l]{%
 \begin{panelgroup}{4}{
 % Match page 1 panel spacing.
-\setlength{\columnsep}{\dimexpr1.5\panelmarginx\relax}
+\setlength{\columnsep}{\dimexpr1.8\panelmarginx\relax}
 \setlength{\multicolsep}{0pt}
 % Apply the intershift only to the last column on page 2.
 
@@ -363,7 +363,7 @@ Altherrensenior
 \eventitem{Sa 01.08.}{Sommerpoolparty \eventmeta{14\,h ct / io} Garten adH }
 \eventitem{So 02.08.}{Semesterexgottesdienst \eventmeta{11\,h mct / ho} Kirche St. Elisabeth}
 \eventitem{Mo 03.08.}{\eventpoints{%
-\eventpoint{AC/BC/DC/WC \eventmeta{19\,h ct / ho} adH}\\
+\eventpoint{AC/BC/DC/WC \eventmeta{19\,h ct / ho} \\ adH}\\
 \eventpoint{Stammtisch \eventmeta{20\,h ct / io} adH}%
 }}
 
