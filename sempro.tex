@@ -9,6 +9,7 @@
 \usepackage{xcolor}
 \usepackage{titlesec}
 \usepackage{pdfpages}
+\usepackage{eso-pic}
 \usepackage[ngerman]{babel}
 \usepackage{csquotes}
 \pagestyle{empty}
@@ -27,7 +28,7 @@
 \newlength{\panelmarginx}
 \newlength{\panelintershift}
 \newlength{\panelheight}
-\setlength{\panelmargintop}{1mm}
+\setlength{\panelmargintop}{4mm}
 \setlength{\frontpanelmargintop}{6mm}
 \setlength{\panelmarginbottom}{6mm}
 \setlength{\panelmarginx}{6mm}
@@ -78,6 +79,12 @@
 \setlength{\parskip}{0pt}
 \setlength{\parindent}{0pt}
 
+% Put full-page PDF art in the background without changing text flow.
+\AddToShipoutPictureBG*{%
+\AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight,page=1]{pdfs/overlay_band.pdf}}%
+\AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight,page=1]{pdfs/Rahmen.pdf}}%
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % PAGE 1 (OUTSIDE)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,8 +113,6 @@ verschiedensten Veranstaltungen von
 wissenschaftlichen Vorträgen über traditionelle Kneipen bis hin zu gemeinsamen
 Aktivenfahrten mit Wanderungen in den
 Bergen.
-\includepdf[pages=1]{pdfs/overlay_band.pdf}
-\includepdf[pages=1]{pdfs/Rahmen.pdf}
 \end{panel}%
 \hspace*{-4\panelintershift}%
 \begin{panel}
@@ -245,10 +250,13 @@ im KV zu Nürnberg
 \clearpage
 \noindent
 
+\AddToShipoutPictureBG*{%
+\AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight,page=2]{pdfs/Rahmen.pdf}}%
+}
+
 \hspace*{1.5mm}
 \makebox[\paperwidth][l]{%
 \begin{panelgroup}{4}{
-\includepdf[pages=2]{pdfs/Rahmen.pdf}
 % Match page 1 panel spacing.
 \setlength{\columnsep}{\dimexpr1.5\panelmarginx\relax}
 \setlength{\multicolsep}{0pt}
